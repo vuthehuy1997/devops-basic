@@ -1,0 +1,22 @@
+{
+    "os": "Linux-5.4.0-107-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.13",
+    "heartbeatAt": "2022-04-13T06:42:17.349379",
+    "startedAt": "2022-04-13T06:42:13.634910",
+    "docker": null,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "week_1_wandb_logging/train.py",
+    "codePath": "week_1_wandb_logging/train.py",
+    "git": {
+        "remote": "https://github.com/graviraja/MLOps-Basics.git",
+        "commit": "13060e0295c7bbc1551e82fe49b6788a5a13ad97"
+    },
+    "email": "huyvuthe@admicro.vn",
+    "root": "/media/huyvt/DATA/adtech/mlops/MLOps-Basics",
+    "host": "huyvt-MS-7B19",
+    "username": "huyvt",
+    "executable": "/media/huyvt/DATA/adtech/mlops/env/bin/python"
+}
