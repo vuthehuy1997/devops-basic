@@ -1,0 +1,6 @@
+wdir: ../models
+outs:
+- md5: 54d2496baca2f59e5dd71cb2c73803c8
+  size: 52544845
+  isexec: true
+  path: best-checkpoint.ckpt
